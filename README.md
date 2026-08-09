@@ -9,6 +9,7 @@ rebelstack-template is a GitHub repository template for quickly bootstrapping ne
 - **Spring Boot** — Production-grade Java web application foundation
 - **j2html** — Type-safe, fluent HTML generation in pure Java — no template files required
 - **deploy4j** — Lightweight, zero-infrastructure deployment tooling for Java apps
+- **Preconfigured .github Agent Directory** — Ships with a ready-to-use `.github` agent setup for GitHub Copilot and repository automation workflows
 - **Template-Ready** — Designed as a GitHub template repository; every project starts from the same clean baseline
 - **Minimal Boilerplate** — Get from `git clone` to a running app in minutes
 
